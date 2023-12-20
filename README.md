@@ -5,7 +5,8 @@ Here are some ideas to get you started:
 
 -->
 
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hi 👋, I'm Newson Upreti</h1>
+<h3 align="center">A passionate Web Developer from Nepal, Living in Bangalore INDIA.</h3>
 
 ![](./src/profile.png)
 
