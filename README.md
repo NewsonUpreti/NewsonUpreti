@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **WEB DEVELOPMENT, LINUX, VIM, etc..**
 
-- 📫 How to reach me **newsonupreti351@gmail.com**
+- 📫 Email: **newsonupreti351@gmail.com**
 
 - ⚡ Fun fact **I hate WINDOWS.**
 
