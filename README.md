@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👯 I’m looking to collaborate on **WEB APPS, FEATURES**
+- 👯 I’m looking to collaborate on **WEB APPS, FEATURES** or even work as a full/part time job/internship to apply my skills and enhance along.
 
 - 👨‍💻 All of my major projects are available in this repository, Check it out.
 
