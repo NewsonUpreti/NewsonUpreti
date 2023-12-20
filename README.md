@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **WEB APPS, FEATURES**
 
-- 👨‍💻 All of my projects are available at [github.com/NewsonUpreti](github.com/NewsonUpreti)
+- 👨‍💻 All of my major projects are available in this repository, Check it out.
 
 - 💬 Ask me about **WEB DEVELOPMENT, LINUX, VIM, etc..**
 
