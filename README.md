@@ -5,14 +5,10 @@ Here are some ideas to get you started:
 
 -->
 
-<h1 align="center">Hi 👋, I'm Newson Upreti</h1>
-<h3 align="center">A passionate Web Developer from Nepal, Living in Bangalore INDIA.</h3>
-
-![](./src/profile.png)
+<h1 align="left">Hi 👋, I'm Newson Upreti</h1>
+<h3 align="left">A passionate Web Developer from Nepal, Living in Bangalore INDIA.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=newsonupreti&label=Profile%20views&color=0e75b6&style=flat" alt="newsonupreti" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=newsonupreti" alt="newsonupreti" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/newsonupreti" target="blank"><img src="https://img.shields.io/twitter/follow/newsonupreti?logo=twitter&style=for-the-badge" alt="newsonupreti" /></a> </p>
 
@@ -25,8 +21,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about **WEB DEVELOPMENT, LINUX, VIM, etc..**
 
 - 📫 Email: **newsonupreti351@gmail.com**
-
-- ⚡ Fun fact **I hate WINDOWS.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,5 +37,3 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=newsonupreti&show_icons=true&locale=en&layout=compact" alt="newsonupreti" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=newsonupreti&show_icons=true&locale=en" alt="newsonupreti" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=newsonupreti&" alt="newsonupreti" /></p>
