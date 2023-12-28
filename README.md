@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 - 📫 Email: **newsonupreti351@gmail.com**
 
+- 😎 : I use neovim btw.
+
 <h3 align="left">Connect with me for more:</h3>
 <p align="left">
 <a href="https://twitter.com/newsonupreti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="newsonupreti" height="30" width="40" /></a>
