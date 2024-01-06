@@ -8,8 +8,6 @@ Here are some ideas to get you started:
 <h1 align="left">Hi 👋, I'm Newson Upreti</h1>
 <h3 align="left">A passionate Web Developer from Nepal, Living in Bangalore INDIA.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=newsonupreti&label=Profile%20views&color=0e75b6&style=flat" alt="newsonupreti" /> </p>
-
 <p align="left"> <a href="https://twitter.com/newsonupreti" target="blank"><img src="https://img.shields.io/twitter/follow/newsonupreti?logo=twitter&style=for-the-badge" alt="newsonupreti" /></a> </p>
 
 - 🌱 I’m currently learning **MERN STACK**
